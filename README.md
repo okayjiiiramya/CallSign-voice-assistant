@@ -4,7 +4,7 @@
 
 Built with the **MERN stack** and **Llama 3.3 70B** (via the Groq API).
 
-🔗 **Live demo:** [ai-virual-assitant.vercel.app](https://ai-virual-assitant.vercel.app)
+🔗 **Live demo:** https://call-sign-voice-assistant.vercel.app
 
 ---
 
